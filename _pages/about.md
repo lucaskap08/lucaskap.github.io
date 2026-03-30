@@ -2,33 +2,47 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: >
+  PhD Candidate in Economics, <a href='https://www.maxwell.syr.edu/'>Maxwell School</a>, Syracuse University<br>
+  Research Associate, <a href='https://www.maxwell.syr.edu/research/center-for-policy-research'>Center for Policy Research</a>
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: false
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>lukaplan@syr.edu</p>
+    <p>Center for Policy Research</p>
+    <p>Syracuse University</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: true
+social: true
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: false
+  scrollable: false
+  limit: 5
 
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  enabled: false
+  scrollable: false
+  limit: 3
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a labor and urban economist studying how environmental conditions shape individual well-being and broader economic outcomes. My research uses large spatial datasets to evaluate the costs and benefits of disaster policy, with a focus on hurricanes and evacuation decisions.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+**I am on the 2025--2026 job market.** My job market paper, ["Should We Flee? The Mortality and Economic Impacts of Hurricane Evacuation Orders,"](#jmp) provides the first causal estimates of both the life-saving benefits and the medium-term economic costs of mandatory evacuation orders. Using quasi-experimental variation from NHC forecast error, I show that evacuation orders substantially reduce mortality during severe hurricanes while generating persistent declines in local economic activity---quantifying a fundamental tradeoff in disaster policy.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Before graduate school, I was an instructional designer at MIT's [Abdul Latif Jameel Poverty Action Lab (J-PAL)](https://www.povertyactionlab.org/), a head teaching assistant at [Harvard Extension School](https://extension.harvard.edu/), and founder of the economics program at Excel Academy in Boston. I hold an MA in economics from Syracuse University and a BA from the University of Massachusetts Amherst. I am a Teach for America alumnus.
+
+<h2 id="jmp" style="margin-top: 2rem;">Job Market Paper</h2>
+
+**Should We Flee? The Mortality and Economic Impacts of Hurricane Evacuation Orders**
+
+*Best Student Research, Center for Policy Research End-of-Year Reception (2025)*
+
+<p style="font-size: 0.95rem; margin-top: 0.5rem;">
+This paper provides the first causal estimates of both the mortality benefits and medium-term economic costs of hurricane evacuation orders. Exploiting quasi-experimental variation from forecast error---comparing counties that entered the NHC forecast cone and received evacuation orders to similarly exposed counties that did not---I show that mandatory evacuation orders reduce excess deaths by roughly 90--110 per 100,000 residents during severe hurricanes. At the same time, evacuated counties experience persistent declines in employment, personal income, business establishments, and home prices lasting two to four years, with magnitudes comparable to major plant closures. The pattern of results points to a queuing mechanism: evacuated areas face delayed access to building permits, insurance payouts, and contractors, placing them at the back of the recovery line. I develop a cost--loss decision framework that integrates these empirical estimates, showing that optimal evacuation thresholds are higher than current practice implies for lower-intensity storms but strongly favor evacuation for high-risk events.
+</p>
+
+<p><a href="mailto:lukaplan@syr.edu">Draft available on request</a></p>

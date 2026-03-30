@@ -2,14 +2,34 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Course materials, schedules, and resources for classes taught.
+description:
 nav: true
-nav_order: 6
-calendar: true
+nav_order: 3
 ---
 
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
+## Instructor
 
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
+**ECN 102: Introductory Macroeconomics** --- Syracuse University, 2025
 
-{% include courses.liquid %}
+**AP Macroeconomics** --- Excel Academy, Boston, 2020--2021
+<br>*Founded the economics program at Excel Academy, teaching AP Macroeconomics and high school history.*
+
+## Teaching Fellow & Co-Instructor
+
+**ECN 495: Undergraduate Thesis Seminar** --- Syracuse University, 2024
+<br>*Co-instructor with Maria Zhu.*
+
+**ECON E-1615: Managerial Economics** (Master's) --- Harvard Extension School, 2021--2023, 2025
+<br>*Lead Teaching Fellow for Aleksandar Tomic. Taught sections, held office hours, and graded for 60+ students per semester.*
+
+## Teaching Assistant
+
+**ECN 410: Economics of Migration** --- Syracuse University, 2024 *(Thomas Pearson)*
+
+**ECN 101: Introductory Microeconomics** --- Syracuse University, 2023 *(Anne Byrne)*
+
+**ECN 102: Introductory Macroeconomics** --- Syracuse University, 2022--2023 *(Andrew Jonelis)*
+
+## Other
+
+I am a [Teach for America](https://www.teachforamerica.org/) and Boston University School of Education alumnus and hold Massachusetts certification in social studies teaching. I have also written curriculum for MIT's [J-PAL](https://www.povertyactionlab.org/).
